@@ -1,0 +1,111 @@
+{
+  "app": "ai-portfolio",
+  "version": 1,
+  "exportedAt": "2026-10-12T11:48:26.999Z",
+  "works": [
+    {
+      "id": "seed-mcp",
+      "builtin": true,
+      "title": "MCP、SKILL 概念图",
+      "tag": "第一次课",
+      "desc": "MCP 模型上下文协议 与 Agent Skill 技能包知识图谱",
+      "type": "images",
+      "createdAt": 1791805605989
+    },
+    {
+      "id": "seed-snake",
+      "builtin": true,
+      "title": "氛围编程 · 贪吃蛇",
+      "tag": "第二次课",
+      "desc": "方向键控制,吃食物成长,挑战最高分",
+      "type": "snake",
+      "createdAt": 1791805605990
+    },
+    {
+      "id": "seed-cnn",
+      "builtin": true,
+      "title": "CNN 分类实验",
+      "tag": "第三次课(上)",
+      "desc": "基于 PyTorch 的 Text-CNN 文本分类完整实验报告",
+      "type": "images",
+      "createdAt": 1791805605991
+    },
+    {
+      "id": "seed-f1",
+      "builtin": true,
+      "title": "F1 计算",
+      "tag": "第三次课(下)",
+      "desc": "给定混淆矩阵,快速算出 Precision / Recall / F1-score",
+      "type": "f1",
+      "createdAt": 1791805605992
+    },
+    {
+      "id": "c55f0348-128c-4530-ae91-aacdbf7f0b38",
+      "title": "测试作品A-改",
+      "tag": "第1次课",
+      "desc": "测试描述",
+      "type": "text",
+      "createdAt": 1791805703617,
+      "updatedAt": 1791805704122
+    },
+    {
+      "id": "c6390106-1760-49d3-92f4-809d64dd58e5",
+      "title": "测试图集",
+      "tag": "第2次课",
+      "desc": "",
+      "type": "images",
+      "createdAt": 1791805704754
+    },
+    {
+      "id": "0668cb6f-8552-4588-8e1b-baf87d97db85",
+      "title": "测试HTML游戏",
+      "tag": "第3次课",
+      "desc": "",
+      "type": "html",
+      "createdAt": 1791805705467
+    }
+  ],
+  "files": [
+    {
+      "id": "a7c56851-e632-45f9-bf55-cd84f61fabee",
+      "workId": "c6390106-1760-49d3-92f4-809d64dd58e5",
+      "kind": "blob-b64",
+      "name": "test.png",
+      "mime": "image/png",
+      "size": 356,
+      "caption": "",
+      "b64": "iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAABGUlEQVR4AezcQQ5EQAAF0Y6rTjL3dwLOQLWE9JNYlvB8W9vvvx/O+wbbcCQBgIlvDIAAo0DMLRBgFIi5BQKMAjG3QIBRIOYWCPCywNTAAiMnQIBRIOYWCDAKxNwCAUaBmFsgwCgQcwsEGAViboFrAManfDC3wIgLEGAUiLkFAowCMbdAgFEg5hYIMArE3AIBRoGYW+BrAeONfSW3wPimAAKMAjG3QIBRIOYWCDAKxNwCAUaBmFsgwCgQcwucCRivtWRugfG1AwQYBWJugQCjQMwtEGAUiLkFAowCMbdAgFEg5ssvMPr5+RjAKhB7nzDAKBBzCwQYBWJugQCjQMwtEGAUiLkFAowCMf/iAuMjz80BRk+AAKNAzE8AAAD//7nxN+QAAAAGSURBVAMAfzvacfHVveoAAAAASUVORK5CYII="
+    },
+    {
+      "id": "ff721039-f289-4c07-9486-a9252d69adc3",
+      "workId": "0668cb6f-8552-4588-8e1b-baf87d97db85",
+      "kind": "blob-b64",
+      "name": "test-game.html",
+      "mime": "text/html",
+      "size": 93,
+      "caption": "",
+      "b64": "PCFET0NUWVBFIGh0bWw+PGh0bWw+PGJvZHkgc3R5bGU9ImJhY2tncm91bmQ6IzExMTtjb2xvcjojZmZmIj48aDE+VEVTVEdBTUU8L2gxPjwvYm9keT48L2h0bWw+"
+    },
+    {
+      "id": "seed-cnn-f1",
+      "workId": "seed-cnn",
+      "kind": "url",
+      "url": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=CNN%20text%20classification%20neural%20network%20architecture%20diagram%2C%20convolutional%20layers%2C%20pooling%20layers%2C%20fully%20connected%20layers%2C%20embedding%2C%20clean%20minimal%20technical%20illustration%2C%20soft%20indigo%20accent%2C%20white%20background%2C%20flat%20design&image_size=landscape_4_3",
+      "caption": "Text-CNN 网络结构示意"
+    },
+    {
+      "id": "seed-mcp-f1",
+      "workId": "seed-mcp",
+      "kind": "url",
+      "url": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=knowledge%20graph%20diagram%20of%20MCP%20Model%20Context%20Protocol%2C%20connected%20nodes%20with%20labels%20showing%20host%20client%20server%2C%20clean%20minimal%20technical%20illustration%2C%20soft%20indigo%20accent%2C%20white%20background%2C%20flat%20design&image_size=landscape_4_3",
+      "caption": "MCP 模型上下文协议"
+    },
+    {
+      "id": "seed-mcp-f2",
+      "workId": "seed-mcp",
+      "kind": "url",
+      "url": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=concept%20diagram%20of%20AI%20agent%20skill%20package%20modular%20structure%2C%20labeled%20blocks%20and%20arrows%2C%20clean%20minimal%20technical%20illustration%2C%20soft%20indigo%20accent%2C%20white%20background%2C%20flat%20design&image_size=landscape_4_3",
+      "caption": "Agent Skill 技能包"
+    }
+  ]
+}
